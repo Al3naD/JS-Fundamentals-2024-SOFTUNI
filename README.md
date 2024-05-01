@@ -15,3 +15,4 @@ Introduction to the basics of web development
 7. Associative Arrays
 8. Text Processing
 9. Regular Expressions
+HTML & CSS Basics
